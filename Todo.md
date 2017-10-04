@@ -1,4 +1,6 @@
-# Manual SQA >> Test Automation >> Full Stack Software Engineer >> Project Manager
+# Step by Step
+
+Manual SQA >> Test Automation >> Full Stack Software Engineer >> Project Manager
 
 ## To Do Test Automation Projects
 
