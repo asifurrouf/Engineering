@@ -1,3 +1,11 @@
+## MEAN Stack
+
+* [An Introduction to the MEAN Stack](https://www.sitepoint.com/introduction-mean-stack/)
+* [Start MEAn App](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
+* [MEAN's great, but then you grow up](https://rclayton.silvrback.com/means-great-but-then-you-grow-up)
+* [Curated list of resources: Books, Videos, Articles about using the MEAN stack to develop apps](https://github.com/unicodeveloper/awesome-meanstack)
+* [MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js](https://github.com/meanjs/mean)
+
 ## Node.js Practical Projects
 
 * [Easy Node Authentication: Setup and Local](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
