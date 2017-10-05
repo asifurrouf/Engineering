@@ -34,3 +34,9 @@
 * [Run Swift and Objective-C in Visual Studio Code](https://formulahendry.wordpress.com/2017/02/18/run-swift-and-objective-c-in-visual-studio-code/)
 * [IDE's available for Swift on Linux](https://www.quora.com/Are-there-any-IDEs-available-for-Swift-on-Linux-and-when-they-will-be-adding-GUI-libraries)
 * [Use Swift Programming Language In Ubuntu Linux](https://itsfoss.com/use-swift-linux/)
+
+### Awesome-swift-libraries
+* [A collaborative list of awesome swift resources.](https://github.com/matteocrippa/awesome-swift)
+* [A curated list of awesome Swift frameworks, libraries and software.](https://github.com/Wolg/awesome-swift)
+* [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
+* [A curated list of awesome Swift frameworks, libraries and software](https://github.com/uhub/awesome-swift)
