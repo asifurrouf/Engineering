@@ -26,3 +26,11 @@
 * [MEAN STACK](https://github.com/CuriousLearner/Awesome-Learning)
 * [Twitter Bootstrap + Font Awesome for Django](https://github.com/InfoAgeTech/django-awesome-bootstrap)
 
+## Awesomeness of SWIFT
+### SWIFT on LINUX
+* [Getting started with Vapor and Swift On Ubuntu 16.04](https://medium.com/@addamb/getting-started-with-vapor-and-swift-on-ubuntu-16-04-31a426654115)
+* [Vapor, a Web Framework for Swift that works on iOS, macOS, and Ubuntu](https://docs.vapor.codes/2.0/)
+* [Hacking Atom to create a Swift IDE that runs on Linux and Mac](https://medium.com/@Aciid/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac-c7d9520a0fac)
+* [Run Swift and Objective-C in Visual Studio Code](https://formulahendry.wordpress.com/2017/02/18/run-swift-and-objective-c-in-visual-studio-code/)
+* [IDE's available for Swift on Linux](https://www.quora.com/Are-there-any-IDEs-available-for-Swift-on-Linux-and-when-they-will-be-adding-GUI-libraries)
+* [Use Swift Programming Language In Ubuntu Linux](https://itsfoss.com/use-swift-linux/)
