@@ -1,0 +1,23 @@
+http://robotframework.org/#libra...
+
+http://robotframework.org/#tools
+
+Then do a quick search for “robotframework” in the following…
+
+https://pypi.python.org
+
+https://github.com/
+
+https://hub.docker.com/
+
+For Robot Framework in continuous integration, there are many examples out there if you do a Google search. I have personally used the following…
+
+https://wiki.jenkins-ci.org/disp...
+
+There is also a very active and helpful community behind it. You can find out more in the following…
+
+https://groups.google.com/forum/...
+
+https://groups.google.com/forum/...
+
+* [robot-framework-tutorial-overview](https://blog.codecentric.de/en/2012/03/robot-framework-tutorial-overview/)
