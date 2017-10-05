@@ -28,6 +28,7 @@
 
 ## Awesomeness of SWIFT
 ### SWIFT on LINUX
+* [SWIFT Main Website](https://swift.org/getting-started/#installing-swift)
 * [Getting started with Vapor and Swift On Ubuntu 16.04](https://medium.com/@addamb/getting-started-with-vapor-and-swift-on-ubuntu-16-04-31a426654115)
 * [Vapor, a Web Framework for Swift that works on iOS, macOS, and Ubuntu](https://docs.vapor.codes/2.0/)
 * [Hacking Atom to create a Swift IDE that runs on Linux and Mac](https://medium.com/@Aciid/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac-c7d9520a0fac)
