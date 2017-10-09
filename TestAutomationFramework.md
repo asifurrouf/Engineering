@@ -41,4 +41,17 @@ Utilizing a framework for automated testing will increase a team’s test speed 
     Keyword-Driven Framework
     Hybrid Testing Framework
 
+### Serenity (Formally Thucydides)
 
+* Is an open-source tool designed to make writing automated acceptance and regression tests easier.
+* Java-based open source test automation framework that integrates with behavior-driven development tools like Cucumber and JBehave
+*  To keep your test scenarios at a high level with lower-level implementation details in your reports, Serenity might be the tool for you.
+* WebDriver management, managing state between steps, screenshots, running tests in parallel, Jira integration and more
+* awesome at is creating unbelievable reports. Out-of-the-box, Serenity creates living documentation that can be used not only to view your Selenium BDD test results, but also as documentation for your application
+
+### Robot Framework
+
+* Python-based open source test automation framework
+* Is a mature solution that was created for testers and uses a keyword-driven approach to make tests readable and easy to create
+* The keyword approach used by Robot Framework is great for testers who are already familiar with other vendor-based, keyword-driven test tools, making the transition to open source much easier for them. 
+*If your team is made up of mostly testers, Robot Framework would be a great option for your open source test automation framework.
