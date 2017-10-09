@@ -70,11 +70,26 @@ Utilizing a framework for automated testing will increase a team’s test speed 
 * Gauge is one of the newest open-source test automation tools for Mac, Windows, and Linux, and it was developed by the folks at ThoughtWorks—the same company that created Selenium.
 * Java, Ruby, and C# will be used for automation tests writing
 
+### [Blazemeter/taurus](https://github.com/Blazemeter/taurus)
+
+* Automation-friendly framework for Continuous Testing by http://gettaurus.org
+* Hides the complexity of performance and functional tests with an automation-friendly convenience wrapper.
+* Taurus relies on JMeter, Gatling, Locust.io, Grinder and Selenium WebDriver as its underlying tools. 
+* Free and open source under Apache 2.0 License.
+
 ### Galen Framework
 
 * perfect fit for user experience design (UX) or layout testing
 * Tests can be written in a simple text file using the Galen syntax, JavaScript, or Java.
 * It also allows you to specify your browser size, then run tests against your application to verify your layout specifications.
+
+### [Sikuli](https://launchpad.net/sikuli)
+
+* [Sikuli](https://github.com/sikuli/sikuli) is a visual technology to automate graphical user interfaces (GUI) using images (screenshots)
+* Sikuli Script automates anything you see on the screen without internal API's support.
+* You can programmatically control a web page, a desktop application running on Windows/Linux/Mac OS X, or even an iPhone or Android application running in an emulator.
+* [lackey](https://github.com/glitchassassin/lackey) Graphical desktop automation with Python.
+* Lackey is a Python implementation of Sikuli script, allowing you to run automation scripts developed in the Sikuli editor with pure Python.
 
 ### Sahi
 
