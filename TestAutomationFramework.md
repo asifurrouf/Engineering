@@ -55,3 +55,15 @@ Utilizing a framework for automated testing will increase a team’s test speed 
 * Is a mature solution that was created for testers and uses a keyword-driven approach to make tests readable and easy to create
 * The keyword approach used by Robot Framework is great for testers who are already familiar with other vendor-based, keyword-driven test tools, making the transition to open source much easier for them. 
 *If your team is made up of mostly testers, Robot Framework would be a great option for your open source test automation framework.
+
+### [RedwoodHQ](https://www.joecolantonio.com/2016/05/10/6-open-source-test-automation-frameworks-need-know/)
+
+* Little bit of a different approach from the other tools.
+* It creates a website interface that allows multiple testers to work together and run their tests from one web-accessible location.
+* Tests can be written in Java/Groovy, Python and C# code to test web applications with Selenium, APIs or databases using their web IDE, which also includes built-in GIT integration.
+* s tester friendly and has a lot of built-in features that allow you to create complete test automation and test management solutions for your teams.
+
+### Sahi
+
+* Both an open-source and a pro version.
+* 
