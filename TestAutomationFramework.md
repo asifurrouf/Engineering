@@ -41,6 +41,8 @@ Utilizing a framework for automated testing will increase a team’s test speed 
     Keyword-Driven Framework
     Hybrid Testing Framework
 
+* 6-open-source-test-automation-frameworks-need-know(https://www.joecolantonio.com/2016/05/10/6-open-source-test-automation-frameworks-need-know/)
+
 ### Serenity (Formally Thucydides)
 
 * Is an open-source tool designed to make writing automated acceptance and regression tests easier.
@@ -56,14 +58,27 @@ Utilizing a framework for automated testing will increase a team’s test speed 
 * The keyword approach used by Robot Framework is great for testers who are already familiar with other vendor-based, keyword-driven test tools, making the transition to open source much easier for them. 
 *If your team is made up of mostly testers, Robot Framework would be a great option for your open source test automation framework.
 
-### [RedwoodHQ](https://www.joecolantonio.com/2016/05/10/6-open-source-test-automation-frameworks-need-know/)
+### [RedwoodHQ]()
 
 * Little bit of a different approach from the other tools.
 * It creates a website interface that allows multiple testers to work together and run their tests from one web-accessible location.
 * Tests can be written in Java/Groovy, Python and C# code to test web applications with Selenium, APIs or databases using their web IDE, which also includes built-in GIT integration.
 * s tester friendly and has a lot of built-in features that allow you to create complete test automation and test management solutions for your teams.
 
+## [Gauge](https://getgauge.io/)
+
+* Gauge is one of the newest open-source test automation tools for Mac, Windows, and Linux, and it was developed by the folks at ThoughtWorks—the same company that created Selenium.
+* Java, Ruby, and C# will be used for automation tests writing
+
+### Galen Framework
+
+* perfect fit for user experience design (UX) or layout testing
+* Tests can be written in a simple text file using the Galen syntax, JavaScript, or Java.
+* It also allows you to specify your browser size, then run tests against your application to verify your layout specifications.
+
 ### Sahi
 
 * Both an open-source and a pro version.
-* 
+* Developed for testing web applications
+* Sahi’s record and playback functionality makes it easy to get started with test automation of simple HTML applications
+
