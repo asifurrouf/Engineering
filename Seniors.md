@@ -4,6 +4,7 @@
 
 * [Alan Hohn](http://blog.anvard.org/articles/)
 * [Jeff Knupp](https://jeffknupp.com/)
+* [Zedshaw](https://zedshaw.com/)
 
 ## Full Stack Software Engineers (Bangladesh)
 
