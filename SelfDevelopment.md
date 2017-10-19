@@ -1,11 +1,18 @@
 ## Your Identities
 
 * Banda Abdullah
-* Full Stack Software Enginner
+* Full Stack Software Enginner in TEST
 * Family Member(Be More Good )
 * Social Member(Be More Good )
 * Be a Scholar (Have a PHD or DBA)
 
+## Fitness Issues
+
+* Wlaking-Cycling
+* Good Diet Chart
+* Injuries/Injury Prevention
+* Good Psychology
+    
 ## Important Notes
 
 * “The Cockroach Theory for Self Development” by Sundar Pichai 
